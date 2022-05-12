@@ -1,0 +1,13 @@
+/Users/danwilsher/Documents/projects/Practice1/Practice1/bin/Debug/netcoreapp3.1/Practice1.deps.json
+/Users/danwilsher/Documents/projects/Practice1/Practice1/bin/Debug/netcoreapp3.1/Practice1.runtimeconfig.json
+/Users/danwilsher/Documents/projects/Practice1/Practice1/bin/Debug/netcoreapp3.1/Practice1.runtimeconfig.dev.json
+/Users/danwilsher/Documents/projects/Practice1/Practice1/bin/Debug/netcoreapp3.1/Practice1.dll
+/Users/danwilsher/Documents/projects/Practice1/Practice1/bin/Debug/netcoreapp3.1/Practice1.pdb
+/Users/danwilsher/Documents/projects/Practice1/Practice1/obj/Debug/netcoreapp3.1/Practice1.csproj.AssemblyReference.cache
+/Users/danwilsher/Documents/projects/Practice1/Practice1/obj/Debug/netcoreapp3.1/Practice1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danwilsher/Documents/projects/Practice1/Practice1/obj/Debug/netcoreapp3.1/Practice1.AssemblyInfoInputs.cache
+/Users/danwilsher/Documents/projects/Practice1/Practice1/obj/Debug/netcoreapp3.1/Practice1.AssemblyInfo.cs
+/Users/danwilsher/Documents/projects/Practice1/Practice1/obj/Debug/netcoreapp3.1/Practice1.csproj.CoreCompileInputs.cache
+/Users/danwilsher/Documents/projects/Practice1/Practice1/obj/Debug/netcoreapp3.1/Practice1.dll
+/Users/danwilsher/Documents/projects/Practice1/Practice1/obj/Debug/netcoreapp3.1/Practice1.pdb
+/Users/danwilsher/Documents/projects/Practice1/Practice1/obj/Debug/netcoreapp3.1/Practice1.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uIVVa/FyYxoEKhpV4cdBT8CQ+HmYkGQp/RTgKVF170acMpr4S7pts2i0ZpgPo+BTbKVnp3hoIWgQ6gHLkabpNw==",
+  "success": true,
+  "projectFilePath": "/Users/danwilsher/Documents/projects/Practice1/Practice1/Practice1.csproj",
+  "expectedPackageFiles": [
+    "/Users/danwilsher/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.22/microsoft.netcore.app.host.osx-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
